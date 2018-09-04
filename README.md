@@ -26,3 +26,4 @@ Input file is "ensembl.txt" which contains a ensembl_id in each line.
 
 ### output file
 Output file will be "symbol.txt" ("ensembl_id" : "corresponding symbol")
+(Output of ensemblTOsymbol_csv.py is ".csv" which is constructed by pandas).
